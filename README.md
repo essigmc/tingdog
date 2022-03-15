@@ -1,2 +1,1 @@
-# tingdog
-Example app landing page
+TinDog Starting Files
